@@ -1,0 +1,31 @@
+body {
+	background: Gray;
+	font-size:25px;
+}
+h1 {
+	background-color: pink; 
+	text-align:center; 
+	border:solid white;
+}
+h2 {
+	background-color: pink; text-align:center;
+	border:solid white;
+}
+.first { 
+	 		font-size: 14px;
+	 		color: black;
+	 		width: 200px;
+	 		height: 400px;
+	 }
+
+}
+.top {
+	height: 100px;
+}
+.left {
+	width: 800px;
+ }
+ .main {
+	margin-left: 800px;
+}
+
